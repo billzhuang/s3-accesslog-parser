@@ -1,0 +1,13 @@
+[project]
+name = "log-parser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Bill Zhuang", email = "zhuangmin@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+  "duckdb",
+  "pandas",
+]
